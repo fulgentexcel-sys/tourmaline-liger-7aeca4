@@ -1,0 +1,10 @@
+Lakshya School ERP
+├── index.html
+├── README.md
+├── PROJECT_STRUCTURE.txt
+├── assets/
+│   ├── app.js
+│   ├── style.css
+│   └── reference-admit-result.png
+└── pages/
+    (reserved for future server-side/module pages)
